@@ -2,6 +2,15 @@
 
 <!--
 **fauzirettob/fauzirettob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Selamat+datang+di+profil+saya+%F0%9F%91%8B;Suka+ngoding+dan+belajar+hal+baru;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=fauzirettob&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
 
 Here are some ideas to get you started:
 
